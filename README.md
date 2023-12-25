@@ -1,4 +1,4 @@
-# Credit Risk Analysis and Prediction by Using Machine Learning
+# Credit Scorecard Model
 
 ## 1. Goals & Objectives
 Minimize the number of clients who are approved but actually defaulters and create predictive model to determine potential client and default client.
