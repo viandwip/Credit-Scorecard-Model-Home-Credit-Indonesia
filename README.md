@@ -1,4 +1,4 @@
-# Credit Scorecard Model Using MAchine Learning
+# Credit Scorecard Model Using Machine Learning
 
 ## 1. Goals & Objectives
 Minimize the number of clients who are approved but actually defaulters and create predictive model to determine potential client and default client.
